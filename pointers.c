@@ -79,7 +79,7 @@ int main(){
 int a=5,b=6;
 //call by value
 _swap(a,b);
-//call by valu not swap the numbers actually
+//call by value not swap the numbers actually
 printf("%d %d\n",a,b);
 //call by reference
 Swap(&a,&b);
